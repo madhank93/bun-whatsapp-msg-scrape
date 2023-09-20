@@ -1,0 +1,15 @@
+{
+  "name": "bun-whatsapp-msg-scrape",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "playwright": "latest"
+  }
+}
