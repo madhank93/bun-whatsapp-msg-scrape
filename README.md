@@ -1,5 +1,7 @@
 # bun-whatsapp-msg-scrape
 
+Discontinuing in favor of [node-whatsapp-msg-scrape](https://github.com/madhank93/node-whatsapp-msg-scrape)
+
 To install dependencies:
 
 ```bash
